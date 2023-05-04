@@ -1,0 +1,89 @@
+[
+  {
+      "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+      "title": "How to get your first job as a self-taught programmer",
+      "author_name": "Tanvir Hassan",
+      "price": 150000,
+      "ratings": 4,
+      "img": "https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?t=st=1680186693~exp=1680187293~hmac=27c469c49d543ae77eb699567bd19faaf3dedd0a1aefd11a1170f758894b1ff8",
+      "profile_img":"https://images.pexels.com/photos/1310522/pexels-photo-1310522.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "shipping": 1,
+      "quantity": 0,
+      "hashtag1": "#programming",
+      "hashtag2": "#beginners",
+      "min": 18,
+      "date": "Feb 18(3 Day ago)"
+  },
+ {
+      "id": "124e13b9-2d54-4ab2f-a74d-a77b362d6edaaded",
+      "title": "How to Learn Web Development?",
+      "author_name": "Tahsin Sabit",
+      "price": 50000,
+      "ratings": 4,
+      "img": "https://img.freepik.com/free-photo/professional-programmer-working-late-dark-office_1098-18705.jpg?t=st=1680186741~exp=1680187341~hmac=8df88374af32473f8fb4230b8f8f9266a6410a1221d4544e7023b5e91baf21a6",
+      "profile_img":"https://images.pexels.com/photos/874158/pexels-photo-874158.jpeg?auto=compress&cs=tinysrgb&w=400",
+       "quantity": 0,
+       "hashtag1": "#programming",
+      "hashtag2": "#beginners",
+      "min": 13,
+       "date": "Sept 10(6 Day ago)"
+  },
+  {
+      "id": "124e1d3b9-2d54-4b2f-a7ds4d-a77b362d6edaaded",
+      "title": "How Get My First Order From Fiverr Marketplace?",
+      "author_name": "Susan",
+      "price": 10000,
+      "ratings": 5,
+      "img": "https://img.freepik.com/free-vector/data-science-programming_39422-1055.jpg?t=st=1680186909~exp=1680187509~hmac=509514065bbd72838f5c03d81c266f1a58a94f25c493fa57ae61776b1636a89e",
+      "profile_img":"https://images.pexels.com/photos/428364/pexels-photo-428364.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "quantity": 0,
+      "hashtag1": "#programming",
+      "hashtag2": "#beginners",
+      "min": 6,
+      "date": "Mar 8(8 Day ago)"
+  },
+{
+      "id": "124esd1d3b9-2d54-4bfds2f-a7sds4d-a77b362d6edaaded",
+      "title": "How to Learn SEO From Online Course?",
+      "author_name": "Sakib Hasan",
+      "price": 45202,
+      "ratings": 4,
+      "img": "https://img.freepik.com/free-photo/programming-background-collage_23-2149901770.jpg?t=st=1680187005~exp=1680187605~hmac=8b7aeacba1451d51c5856b0b2857b390f1a2d5f26b3db9642b2ffe7d59362075",
+      "profile_img":"https://images.pexels.com/photos/733872/pexels-photo-733872.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "quantity": 0,
+      "hashtag1": "#programming",
+      "hashtag2": "#beginners",
+      "min": 15,
+      "date": "Jun 15(9 Day ago)"
+  },
+ {
+      "id": "124e1de3b9-2d5fsd4-4b2saef-a7ds4d-a77b3d",
+      "title": "How to Earn Money From Web Development",
+      "author_name": "Aqib Hasan",
+      "price": 105202,
+      "ratings": 2,
+      "img": "https://img.freepik.com/free-photo/programming-background-collage_23-2149901783.jpg?t=st=1680187042~exp=1680187642~hmac=fb847073d8b08212ec7722e9e381800d3922a5f6f59b08b071c305fd991e9085",
+      "profile_img":"https://images.pexels.com/photos/3775168/pexels-photo-3775168.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "quantity": 0,
+      "hashtag1": "#programming",
+      "hashtag2": "#beginners",
+      "min": 8,
+      "date": "Mar 14(4 Day ago)"
+  },
+{
+      "id": "1e3b9-2fsd4-4b2saef-a7ds4d-a77b3d",
+      "title": "How to success on Freelancing easy way?",
+      "author_name": "Tanzid Hassan",
+      "price": 50202,
+      "ratings": 2,
+      "img": "https://img.freepik.com/free-photo/circuit-cyberspace-closeup-with-neon-lights_90220-1200.jpg?size=626&ext=jpg&ga=GA1.1.870861867.1673849538&semt=sph",
+      "profile_img":"https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fHByb2ZpbGV8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
+      "quantity": 0,
+      "hashtag1": "#programming",
+      "hashtag2": "#beginners",
+      "min": 12,
+      "date": "Jan 4(3 Day ago)"
+      
+  }
+
+]
